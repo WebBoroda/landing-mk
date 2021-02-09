@@ -1,0 +1,13 @@
+User agent: *
+Allow:/img/$
+Allow:/favicon/$
+Allow:/index.html
+Allow:/thanks.html
+
+
+Disallow: /js/$
+Disallow: /css/$
+Disallow: /fonts-icons/$
+Disallow: /telegram.php
+
+
