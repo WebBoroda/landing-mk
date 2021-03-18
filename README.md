@@ -8,4 +8,4 @@ SEO (оптимізація під пошукові системи.
 Відправка замовлення з сайту на телеграм.
 
 Переглянути можна за посиланням: https://webboroda.github.io/landing-mk/ 
-та https://mykolakorol.com.ua/
+
