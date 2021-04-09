@@ -1,4 +1,4 @@
-Landing page https://mykolakorol.com.ua/ для Миколи Короля (https://www.instagram.com/mykola_korol/ ).
+Landing page https://l.mykolakorol.com.ua/ для Миколи Короля (https://www.instagram.com/mykola_korol/ ).
 Розроблено 
 SEO (оптимізація під пошукові системи. 
 Дизайн. 
